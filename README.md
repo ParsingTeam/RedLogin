@@ -15,9 +15,13 @@ Usage:
 Redlogin.exe <Targetlist.txt> <Userlist.txt> <Passlist.txt> (Optional) —telegram <BotToken> <ChatID>
 
 <Targetlist.txt> ==> List of targets ip list
+
 <Userlist.txt> ==> List of usernames want to test
+
 <Passlist.txt>  ==> List of passwords want to test
+
 <BotToken> ==> Telegram bot token via @BotFather
+  
 <ChatID> ==> Telegram chatid via @userinfobot
   
 # Thanks to
