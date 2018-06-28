@@ -27,6 +27,3 @@ Redlogin.exe <Targetlist.txt> <Userlist.txt> <Passlist.txt> (Optional) —telegr
 # Thanks to
 - JeJe Plus
 - Rojhelat
-
-# Report bugs
-Telegram : @N3verlove
